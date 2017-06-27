@@ -1,0 +1,3 @@
+[submodule "gtest_fwk"]
+	path = gtest_fwk
+	url = https://github.com/BeentageBand/gtest_fwk

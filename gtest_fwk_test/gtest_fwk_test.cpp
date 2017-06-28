@@ -5,5 +5,4 @@
 TEST(test,1)
 {
    std::cout << "test" << std::endl;
-   SUCCESS();
 }

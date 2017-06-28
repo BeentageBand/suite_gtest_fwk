@@ -1,3 +1,6 @@
 [submodule "gtest_fwk"]
 	path = gtest_fwk
 	url = https://github.com/BeentageBand/gtest_fwk
+[submodule "project_make"]
+	path = project_make
+	url = https://github.com/BeentageBand/project_make
